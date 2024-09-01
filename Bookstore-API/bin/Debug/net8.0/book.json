@@ -1,0 +1,34 @@
+[
+  {
+    "Id": "0f666fc7-b056-48b4-8dd8-16e91314b0b1",
+    "Title": "A coragem de nao agradar",
+    "Author": "Leonardo Batista",
+    "Genre": "Autoajuda",
+    "Price": 220,
+    "Quantity": 10
+  },
+  {
+    "Id": "5fb3c6ff-fb75-4b90-9304-e23800a30b30",
+    "Title": "string",
+    "Author": "string",
+    "Genre": "string",
+    "Price": 0,
+    "Quantity": 0
+  },
+  {
+    "Id": "e9f058f5-2159-4ce6-a307-84de28206df8",
+    "Title": "paradigma da programacao",
+    "Author": "string",
+    "Genre": "string",
+    "Price": 0,
+    "Quantity": 0
+  },
+  {
+    "Id": "0f666fc7-b056-48b4-8dd8-16e91314b0b1",
+    "Title": "A coragem de nao agradar",
+    "Author": "Leonardo Batista",
+    "Genre": "Autoajuda",
+    "Price": 220,
+    "Quantity": 10
+  }
+]

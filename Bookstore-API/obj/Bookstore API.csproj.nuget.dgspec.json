@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/leonardo.batista/Sites/my-projects/rocketseat - C# API/Desafios práticos/Bookstore-API/Bookstore API.csproj": {}
+  },
+  "projects": {
+    "/Users/leonardo.batista/Sites/my-projects/rocketseat - C# API/Desafios práticos/Bookstore-API/Bookstore API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/leonardo.batista/Sites/my-projects/rocketseat - C# API/Desafios práticos/Bookstore-API/Bookstore API.csproj",
+        "projectName": "Bookstore API",
+        "projectPath": "/Users/leonardo.batista/Sites/my-projects/rocketseat - C# API/Desafios práticos/Bookstore-API/Bookstore API.csproj",
+        "packagesPath": "/Users/leonardo.batista/.nuget/packages/",
+        "outputPath": "/Users/leonardo.batista/Sites/my-projects/rocketseat - C# API/Desafios práticos/Bookstore-API/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/leonardo.batista/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
